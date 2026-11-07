@@ -1,0 +1,45 @@
+{
+    "candidate_name": "Rahul Kumar",
+    "category_scores": {
+        "core_skills": {
+            "score": 20,
+            "justification": "The resume shows no evidence of Python 3.10+ programming, data structures, OOP, file handling, error handling, type hints, Pandas, NumPy, regex, document parsing libraries, LLM knowledge, REST API usage, Git, virtual environments, or command-line tools. All core technical requirements are missing.",
+            "weight": "30%"
+        },
+        "projects_and_assignments": {
+            "score": 15,
+            "justification": "Only two minimal projects are listed: a student record management system built in MS Excel and a basic personal webpage using HTML. Neither demonstrates Python development, data science, AI, or any of the required technical tasks.",
+            "weight": "25%"
+        },
+        "experience_internships": {
+            "score": 0,
+            "justification": "The resume indicates no internship or professional work experience, providing zero evidence of any relevant practical application of the required skills.",
+            "weight": "15%"
+        },
+        "academic_qualification": {
+            "score": 10,
+            "justification": "The candidate holds a Bachelor of Commerce degree, which does not satisfy the required field of Computer Science, Data Science, AI, Mathematics, or a related discipline.",
+            "weight": "15%"
+        },
+        "resume_quality": {
+            "score": 20,
+            "justification": "The resume is sparse, lacks detail on achievements, contains no technical depth, and omits essential information such as programming languages, tools, or relevant coursework. Formatting and content quality are low.",
+            "weight": "15%"
+        }
+    },
+    "key_strengths": [
+        "Basic familiarity with HTML for web page creation",
+        "Currently enrolled in a Bachelor's degree program (2023-2026), indicating ongoing education"
+    ],
+    "skill_gaps": [
+        "No Python programming experience or related libraries (Pandas, NumPy, regex)",
+        "No knowledge of document parsing, LLMs, prompt engineering, or vector databases",
+        "No experience with REST APIs, requests library, or backend frameworks (FastAPI/Django)",
+        "No evidence of Git, version control, virtual environments, or command-line usage",
+        "Degree is in Commerce, not in a relevant technical field",
+        "Limited project experience and no unit testing, code quality, or performance benchmarking"
+    ],
+    "hiring_manager_recommendation": "Given the extensive skill gaps, lack of relevant experience, and mismatch between academic background and role requirements, this candidate is not a suitable fit for the Python AI & Data Science Trainee position at this time. Recommendation: reject or request significant up‑skilling before re‑consideration.",
+    "overall_match_score": 14,
+    "fit_status": "Weak Match"
+}

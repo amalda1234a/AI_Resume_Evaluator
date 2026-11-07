@@ -1,0 +1,40 @@
+
+Job Title: Python AI & Data Science Trainee
+
+Department: Artificial Intelligence & Engineering
+
+Location: Kochi, Kerala, India (Hybrid / On-site)
+
+Engagement: Full-Time Trainee / Internship (6 Months leading to Full-Time Role)
+
+Role Overview:
+We are seeking enthusiastic Python developers who are interested in Artificial Intelligence, Data Science, and Generative AI. The candidate will work on building practical AI applications, document-processing pipelines, and LLM-based solutions.
+
+Key Responsibilities:
+1. Design and implement Python scripts to ingest, parse, clean, and structure unstructured documents such as PDF, Word, JSON, and HTML.
+2. Build LLM-based features using OpenRouter, OpenAI, Hugging Face, and Ollama.
+3. Implement token-efficient prompt engineering, Retrieval-Augmented Generation (RAG), embeddings-based semantic search, and related AI workflows.
+4. Write modular, reusable, unit-tested Python code following PEP 8 standards.
+5. Work with FastAPI or Django to develop backend applications.
+6. Benchmark model performance, latency, token consumption, and validate outputs using Pydantic or JSON Schema.
+
+Required Skills:
+1. Python 3.10+, data structures, OOP, file handling, error handling, and type hints.
+2. Basic knowledge of Pandas, NumPy, and regular expressions.
+3. Familiarity with document parsing libraries.
+4. Understanding of LLMs, prompt engineering, temperature, top-p, embeddings, cosine similarity, and vector databases.
+5. Experience working with REST APIs and the requests library.
+6. Git, GitHub, virtual environments, and command-line tools.
+
+Bonus Skills:
+1. Experience with vector databases.
+2. Knowledge of Pydantic or Instructor.
+3. Open-source contributions, competitive programming, or personal projects.
+4. Familiarity with Pylint, Black, or Flake8.
+
+Eligibility:
+Bachelor's or Master's degree in Computer Science, Data Science, Artificial Intelligence, Mathematics, or a related field.
+
+Preferred graduation batches: 2024, 2025, and 2026.
+
+Candidates should have a good foundation in linear algebra, probability, and algorithms.
